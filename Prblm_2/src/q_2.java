@@ -139,6 +139,7 @@ public class q_2{
 		/**
 			*...HERE WE TAKE Z1 AS INPUT TO PRINT BEST Z1 COPULES HAPPINESS AND COMPATIBILTY...
 		*/
+		System.out.println("Enter the value of z1 for best Couples");
 		int z1;
 		Scanner scan=new Scanner(System.in);
 		z1=scan.nextInt();
