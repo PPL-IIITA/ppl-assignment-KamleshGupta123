@@ -1,3 +1,2 @@
 # Enrollment No. --IIT2015142
-ppl-assignment-KamleshGupta123
-ppl-assignment-KamleshGupta123 created by GitHub Classroom
+# Run only script file to Compile the code named as q1.sh and q2.sh
