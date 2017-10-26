@@ -1,3 +1,4 @@
-javac *.java
-java c_gen
-java q_1
+#javac *.java
+
+#java c_gen
+#java q_1
